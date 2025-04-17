@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolatosullivan
+- 👋 Hi, I’m Nicola.
 - 👀 I’m interested in information architecture, accessible documentation, and streamlining workflows for efficient collaboration.
 - 🌱 I’m currently learning docs as code, static site generators, and API documentation. 
 - 💞️ I’m looking to collaborate on open source projects.
